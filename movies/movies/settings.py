@@ -25,7 +25,7 @@ SECRET_KEY = 'o6208%y8v&ii@f5dz1t2otl6eyiuo+)5^2z0@zhxk^az7g%s&a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://hackathon421.herokuapp.com/']
 
 
 # Application definition
