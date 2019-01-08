@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'o6208%y8v&ii@f5dz1t2otl6eyiuo+)5^2z0@zhxk^az7g%s&a'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['https://hackathon421.herokuapp.com/']
+ALLOWED_HOSTS = ['hackathon421.herokuapp.com']
 
 
 # Application definition
